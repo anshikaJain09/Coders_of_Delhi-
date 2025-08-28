@@ -2,12 +2,14 @@
 People Recommendation System
 
 📌 Project Overview
+
 This project demonstrates how data preprocessing, cleaning, and algorithm design can be combined to build a recommendation system in Python. The system suggests two types of recommendations:
 People You May Know → Based on mutual connections.
 People You Might Like → Based on preference patterns.
 It also includes data preprocessing and data cleaning steps to ensure high-quality inputs before building the recommendation logic.
 
 ⚙️ Tech Stack
+
 Python (Core implementation)
 Pandas & NumPy (Data handling)
 JSON (Raw dataset format)
