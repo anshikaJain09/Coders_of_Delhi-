@@ -14,6 +14,7 @@ JSON (Raw dataset format)
 Jupyter Notebook (Development & experimentation)
 
 📂 Project Structure
+
 ├── 01_data_preprocessing.ipynb   # Preprocessing raw JSON data (formatting, structuring)
 ├── 02_data_cleaning.ipynb        # Cleaning missing/inconsistent data
 ├── 03_people_you_may_know.ipynb  # Recommender for mutual connections
